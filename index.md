@@ -4,7 +4,7 @@ layout: default
 
 Alex Frederick, afrederick@ucsd.edu
 
-Section: SECTION_HERE, Mentor: Armin Schwartzman
+Section: D21, Mentor: Armin Schwartzman
 
 **What is the most interesting topic covered in your domain this quarter?**
 
